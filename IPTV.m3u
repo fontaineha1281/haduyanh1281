@@ -10,7 +10,7 @@ https://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/hD7yYgp/vtv5logobyvovanloc.png", VTV5 | 1080P
 https://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/j38ZWhp/vtv6logobyvovanloc.png", VTV6 | 1080P
-https://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/LzDbxcr/vtv7logobyvovanloc.png", VTV7 | 1080P
 https://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.ibb.co/pWNZztN/vtv8logobyvovanloc.png", VTV8 | 1080P
